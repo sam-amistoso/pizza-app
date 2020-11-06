@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.7b86255b.chunk.js",
+    "main.js.map": "/static/js/main.7b86255b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7fe813cf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7fe813cf.js.map",
+    "static/js/2.f332266a.chunk.js": "/static/js/2.f332266a.chunk.js",
+    "static/js/2.f332266a.chunk.js.map": "/static/js/2.f332266a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.f332266a.chunk.js.LICENSE.txt": "/static/js/2.f332266a.chunk.js.LICENSE.txt",
+    "static/media/pizza-0.76aa5e98.jpg": "/static/media/pizza-0.76aa5e98.jpg",
+    "static/media/pizza-2.ffe59b77.jpg": "/static/media/pizza-2.ffe59b77.jpg",
+    "static/media/pizza-3.061b3e0a.jpg": "/static/media/pizza-3.061b3e0a.jpg",
+    "static/media/pizza-5.795bc4d1.jpg": "/static/media/pizza-5.795bc4d1.jpg",
+    "static/media/pizza-6.3e85814c.jpg": "/static/media/pizza-6.3e85814c.jpg",
+    "static/media/sweet-1.3c582254.jpg": "/static/media/sweet-1.3c582254.jpg",
+    "static/media/sweet-2.c685faad.jpg": "/static/media/sweet-2.c685faad.jpg",
+    "static/media/sweet-3.93372b99.jpg": "/static/media/sweet-3.93372b99.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fe813cf.js",
+    "static/js/2.f332266a.chunk.js",
+    "static/js/main.7b86255b.chunk.js"
+  ]
+}
